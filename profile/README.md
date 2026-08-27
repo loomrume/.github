@@ -77,6 +77,17 @@ Each picture opens a fresh copy in Studio. The name goes to a short article.
   </tr>
 </table>
 
+## On GitHub
+
+The site does not host other people’s schemes. On GitHub they live in two repositories:
+
+| | |
+| --- | --- |
+| [abyss](https://github.com/loomrume/abyss) | Community schemes. Send one from Studio (**Share → Send to Abyss**) or open a pull request. Search by code and by `kind:` labels on the PR. Issues are off. |
+| [lantern](https://github.com/loomrume/lantern) | Support, bugs, ideas, and discussion. [Open an issue](https://github.com/loomrume/lantern/issues/new/choose) when you want us to act; [Discussions](https://github.com/loomrume/lantern/discussions) for conversation. Do not put schemes here. |
+
+Curated examples on [loomrume.com/examples](https://www.loomrume.com/examples) are separate from Abyss.
+
 ## Links
 
 | | |
@@ -84,6 +95,8 @@ Each picture opens a fresh copy in Studio. The name goes to a short article.
 | Site | [loomrume.com](https://www.loomrume.com) |
 | Studio | [loomrume.com/studio](https://www.loomrume.com/studio) |
 | New scheme | [Newton prism, as a copy](https://www.loomrume.com/experiments/new?template=newton-prism) |
+| Abyss | [github.com/loomrume/abyss](https://github.com/loomrume/abyss) |
+| Support | [github.com/loomrume/lantern](https://github.com/loomrume/lantern) |
 | Mail | [hello@loomrume.com](mailto:hello@loomrume.com) |
 
 Native apps are still in progress. On a computer you can already build schemes in the browser. On a phone you can look around until the apps ship.
