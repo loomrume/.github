@@ -13,13 +13,7 @@ A figure in a textbook is already finished — you cannot nudge the prism. In [S
 The picture is a computed model, not a photograph of a lab. That is usually enough to understand why a scheme behaves as it does.
 
 <p align="center">
-  <a href="https://www.loomrume.com/experiments/new?template=newton-prism">
-    <img src="thumbs/newton-prism.png" alt="Newton prism — open a copy in Studio" width="420" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.loomrume.com/experiments/new?template=newton-prism"><strong>Open Newton’s prism in Studio</strong></a>
+  <a href="https://www.loomrume.com/experiments/new"><strong>Open an empty bench</strong></a>
   ·
   <a href="https://www.loomrume.com/studio">Studio library</a>
   ·
@@ -28,7 +22,7 @@ The picture is a computed model, not a photograph of a lab. That is usually enou
   <a href="https://www.loomrume.com/about">About</a>
 </p>
 
-That link mints a copy of the public example in your browser library, then opens it on the bench. The original stays put.
+That link opens a new empty bench in your browser library.
 
 ## More schemes
 
@@ -94,7 +88,7 @@ Curated examples on [loomrume.com/examples](https://www.loomrume.com/examples) a
 | --- | --- |
 | Site | [loomrume.com](https://www.loomrume.com) |
 | Studio | [loomrume.com/studio](https://www.loomrume.com/studio) |
-| New scheme | [Newton prism, as a copy](https://www.loomrume.com/experiments/new?template=newton-prism) |
+| New scheme | [Empty bench](https://www.loomrume.com/experiments/new) |
 | Abyss | [github.com/loomrume/abyss](https://github.com/loomrume/abyss) |
 | Support | [github.com/loomrume/lantern](https://github.com/loomrume/lantern) |
 | Mail | [hello@loomrume.com](mailto:hello@loomrume.com) |
