@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.loomrume.com">
-    <img src="mark.gif" alt="Loomrume — a lamp turns into a camera, a robot, and a lunar lander" width="360" />
+    <img src="mark.gif" alt="Loomrume — the mark above the name" />
   </a>
 </p>
 
