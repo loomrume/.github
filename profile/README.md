@@ -2,27 +2,29 @@
 
 <p align="center">
   <a href="https://www.loomrume.com">
-    <img src="banner.png" alt="Loomrume — a lamp on the left, a long beam across the board" />
+    <img src="mark.gif" alt="Loomrume — a lamp turns into a camera, a robot, and a lunar lander" width="360" />
   </a>
 </p>
 
-Loomrume is a 2D optical bench. You place lamps, glass, and mirrors, move them, and watch how the rays go.
+Loomrume is a place to experiment with light. Examples, lessons, and your own schemes run on the same ray tracer, so you see what the physics does.
 
-A figure in a textbook is already finished — you cannot nudge the prism. In [Studio](https://www.loomrume.com/studio) you can: change one thing and see what the light does.
+In [Studio](https://www.loomrume.com/studio) you place lamps, glass, and mirrors, move them, and the rays update. A scheme can also be opened in 3D. A textbook figure is already finished; here you can change one thing and watch the light respond.
 
-The picture is a computed model, not a photograph of a lab. That is usually enough to understand why a scheme behaves as it does.
+The picture is computed, not a canned animation.
 
 <p align="center">
   <a href="https://www.loomrume.com/experiments/new"><strong>Open an empty bench</strong></a>
   ·
-  <a href="https://www.loomrume.com/studio">Studio library</a>
+  <a href="https://www.loomrume.com/studio">Studio</a>
   ·
-  <a href="https://www.loomrume.com/examples">All examples</a>
+  <a href="https://www.loomrume.com/examples">Examples</a>
   ·
-  <a href="https://www.loomrume.com/about">About</a>
+  <a href="https://www.loomrume.com/play">Lessons</a>
+  ·
+  <a href="https://apps.apple.com/app/id6830845640">App Store</a>
 </p>
 
-That link opens a new empty bench in your browser library.
+That link opens a new empty bench in your browser.
 
 ## More schemes
 
@@ -88,9 +90,12 @@ Curated examples on [loomrume.com/examples](https://www.loomrume.com/examples) a
 | --- | --- |
 | Site | [loomrume.com](https://www.loomrume.com) |
 | Studio | [loomrume.com/studio](https://www.loomrume.com/studio) |
+| Examples | [loomrume.com/examples](https://www.loomrume.com/examples) |
+| Lessons | [loomrume.com/play](https://www.loomrume.com/play) |
 | New scheme | [Empty bench](https://www.loomrume.com/experiments/new) |
+| iPhone and iPad | [App Store](https://apps.apple.com/app/id6830845640) |
 | Abyss | [github.com/loomrume/abyss](https://github.com/loomrume/abyss) |
 | Support | [github.com/loomrume/lantern](https://github.com/loomrume/lantern) |
 | Mail | [hello@loomrume.com](mailto:hello@loomrume.com) |
 
-Native apps are still in progress. On a computer you can already build schemes in the browser. On a phone you can look around until the apps ship.
+Studio also runs in the browser. The iPhone and iPad app is on the App Store. No account is required. Schemes stay on your device until you choose to share them.
